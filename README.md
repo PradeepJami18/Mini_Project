@@ -13,7 +13,7 @@ Ensure you have the following installed before proceeding:
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/Sandeepkandula2004/Mini_Project.git
+ git clone https://github.com/PradeepJami18/Mini_Project.git
  cd Mini_Project
 ```
 
